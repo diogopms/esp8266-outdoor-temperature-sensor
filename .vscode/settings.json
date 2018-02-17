@@ -1,0 +1,6 @@
+{
+    "terminal.integrated.env.osx": {
+        "PATH": "/Users/diogopms/.platformio/penv/bin:/Users/diogopms/.platformio/penv:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Users/diogopms/.rvm/bin:/usr/local/sbin",
+        "PLATFORMIO_CALLER": "vscode"
+    }
+}
